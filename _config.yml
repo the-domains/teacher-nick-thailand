@@ -1,0 +1,28 @@
+name: Teacher Nick Thailand
+favicon: null
+layout_spectrum: 0.8733196002431214
+typography_spectrum: 0.8592407808173448
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.29545906628482044
+  lightness: 0.30685983458533883
+  saturation: 0.6633786526508629
+  rhythmicContrast: 0.7510770636145025
+purpose: []
